@@ -5,4 +5,4 @@ This is where we refactor the code elements of the __Horiseon__ website for the 
 
 ![alt text](assets/Horiseon-Services-Screenshot.png)
 
-[Horiseon Services](file:///Users/jg/Desktop/class-repos/code-refactor/index.html)
+[Code Refactor - Horiseon Services Respository](https://github.com/jimbopulos/code-refactor-Horiseon-Website)
