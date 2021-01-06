@@ -1,3 +1,4 @@
+/*Sets border, padding, and margins for whole page*/
 * {
     box-sizing: border-box;
     padding: 0;
