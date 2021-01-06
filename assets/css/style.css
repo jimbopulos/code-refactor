@@ -156,6 +156,7 @@ p {
     text-align: center;
 }
 
+/*Formats .png's for side panel*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -174,6 +175,7 @@ p {
     max-width: 150px;
 }
 
+/*Formats img's for respective sections*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -186,6 +188,7 @@ p {
     max-height: 200px;
 }
 
+/*Formats headers of middle page sections*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -201,6 +204,7 @@ p {
     font-size: 36px;
 }
 
+/*Sets font-family and formats footer element*/
 .footer {
     padding: 30px;
     clear: both;
