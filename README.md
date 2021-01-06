@@ -5,5 +5,5 @@ This is where we refactor the code elements of the __Horiseon__ website for the 
 
 ![alt text](assets/Horiseon-Services-Screenshot.png)
 
-file:///Users/jg/Desktop/class-repos/code-refactor/index.html#search-engine-optimization - automatic!
-[Horiseon Services](file:///Users/jg/Desktop/class-repos/code-refactor/index.html#search-engine-optimization)
+https://github.com/jimbopulos/code-refactor-Horiseon-Website - automatic!
+[Code Refactor - Horiseon Services Respository](https://github.com/jimbopulos/code-refactor-Horiseon-Website)
