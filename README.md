@@ -5,5 +5,6 @@ This is where we refactor the code elements of the __Horiseon__ website for the 
 
 ![alt text](assets/Horiseon-Services-Screenshot.png)
 
-[Code Refactor - Horiseon Services Website](https://jimbopulos.github.io/code-refactor-Horiseon-Website/)
-[Code Refactor - Horiseon Services Respository](https://github.com/jimbopulos/code-refactor-Horiseon-Website)
+> [Code Refactor - Horiseon Services Website](https://jimbopulos.github.io/code-refactor-Horiseon-Website/)
+
+> [Code Refactor - Horiseon Services Respository](https://github.com/jimbopulos/code-refactor-Horiseon-Website)
