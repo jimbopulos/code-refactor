@@ -46,6 +46,7 @@ a {
     text-decoration: none;
 }
 
+/*Changed p font-size to 20px from 16px*/
 p {
     font-size: 20px;
 }
@@ -75,6 +76,7 @@ p {
     margin-left: 20px;
 }
 
+/*Relocated following three classes to match syntax of index.html*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
