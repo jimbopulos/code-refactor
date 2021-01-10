@@ -149,7 +149,7 @@ p {
 }
 
 /*Formats .png's for side panel*/
-/* Consolidated benefits img selectors */
+/* Consolidated benefit img selectors */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -159,14 +159,9 @@ p {
 }
 
 /*Formats img's for respective sections*/
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
+/* Consolidated section content img selectors */
+.search-engine-optimization img,
+.online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
